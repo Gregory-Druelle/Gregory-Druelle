@@ -1,4 +1,9 @@
 ### Hi there 👋
+- 🌱 I am currently training as a web and mobile web developer.
+- 🌱 I like to travel, I have during the last 12 years made 3 to 4 trips per year.
+- 👯 I would like to improve my skills and the qualities of these for development.
+- ⚡ to travel ! Sourcing of products! Creation of mono-product websites or e-commerce sites!
+     Will be "my Amers" for years to come.
 
 <!--
 **Gregory-Druelle/Gregory-Druelle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
