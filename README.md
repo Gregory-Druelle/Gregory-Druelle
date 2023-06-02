@@ -1,9 +1,8 @@
 ### Hi there 👋
-- 🌱 I am currently training as a web and mobile web developer.
-- 🌱 I like to travel, I have during the last 12 years made 3 to 4 trips per year.
-- 👯 I would like to improve my skills and the qualities of these for development.
-- ⚡ to travel ! Sourcing of products! Creation of mono-product websites or e-commerce sites!
-     Will be "my Amers" for years to come.
+- 🌱 Je suis actuellement en formation de Développeur Web & Web Mobile chez Simplon.
+- 🌱 J'aime les voyages, j'ai pendant ces 12 dernières années voyagé 3 à 4 fois par an.
+- 👯 Je reste en apprentissage permanent pour acquérir, améliorer mes compétences et ainsi que la qualités de celles-ci.
+- ⚡ Voyager, en profiter pour effectuer du sourcing de produits, créer des sites mono produit et boutique en ligne et proposer mes services en freelance seront mes amers pour les années à venir.
 
 <!--
 **Gregory-Druelle/Gregory-Druelle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
