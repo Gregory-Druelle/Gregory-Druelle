@@ -35,7 +35,7 @@ J'aime les défis .
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
   </a>
   <a href="https://www.phpmyadmin.net/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/phpmyadmin/phpmyadmin/raw/master/favicon.ico" alt="phpmyadmin" width="40" height="40"/>
+    <img src="https://www.phpmyadmin.net/static/images/logo.png?067b638aa2a2" alt="phpmyadmin" width="40" height="40"/>
   </a>
   <a href="https://www.php.net/manual/en/book.mysql.php" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="phpmysql" width="40" height="40"/>
