@@ -40,9 +40,6 @@ J'aime les défis .
   <a href="https://www.php.net/manual/en/book.mysql.php" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="phpmysql" width="40" height="40"/>
   </a>
-  <a href="https://launchpad.net/analysesi" target="_blank" rel="noreferrer">
-  <img=https://framalibre.org/sites/default/files/leslogos/Firefox_Screenshot_2017-03-30T10-26-30.977Z.png alt="analysesi" width="40" height="40"/>
-  </a>
 </p>
 <br>
 
