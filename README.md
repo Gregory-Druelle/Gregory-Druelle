@@ -40,6 +40,9 @@ J'aime les défis .
   <a href="https://www.php.net/manual/en/book.mysql.php" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="phpmysql" width="40" height="40"/>
   </a>
+  <a href="https://bulma.io" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/jgthms/bulma/master/docs/images/bulma-logo.png" alt="Bulma" width="40" height="40"/>
+  </a>
 </p>
 <br>
 
