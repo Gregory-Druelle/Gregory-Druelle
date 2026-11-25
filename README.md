@@ -1,5 +1,5 @@
 ### Salut et Bienvenue 👋
-- 🌱 Je suis actuellement en formation de Développeur Web & Web Mobile chez Simplon.
+- 🌱 🌱 Je suis actuellement entrepreneur et j’exerce deux activités : la première est spécialisée dans le commerce de produits personnalisés (cadeaux personnalisés), et la seconde dans l’entretien et la maintenance du bâti à l’aide de drones et de perches télescopiques.
 - 🌱 J'aime les voyages, j'ai pendant ces 12 dernières années voyagé 3 à 4 fois par an.
 - 👯 Je reste en apprentissage permanent pour acquérir, améliorer mes compétences ainsi que la qualité de celles-ci.
 - ⚡ Voyager, en profiter pour effectuer du sourcing de produits, la création de site mono produit ou boutique en ligne et proposer mes services en freelance seront mes amers pour les années à venir.
